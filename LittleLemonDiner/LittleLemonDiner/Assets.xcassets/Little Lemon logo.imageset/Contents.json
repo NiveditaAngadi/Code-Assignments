@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Little Lemon logo.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
